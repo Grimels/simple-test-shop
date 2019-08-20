@@ -1,0 +1,12 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+
+    width: 90%;
+    align-self: center;
+}
+
+.cart-info {
+    padding-left: 5px;
+    vertical-align: super;
+}

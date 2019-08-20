@@ -1,0 +1,6 @@
+.items-container {
+  margin: 0;
+
+  display: flex !important;
+  justify-content: space-between !important;
+}

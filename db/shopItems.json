@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "id": "item11",
+      "name": "Football",
+      "price": 50,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61F-Epj6A9L._SL1104_.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+
+    {
+      "id": "item22",
+      "name": "Basketball",
+      "price": 75,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91M76Va0YSL._SL1500_.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+
+    {
+      "id": "item33",
+      "name": "Volleyball",
+      "price": 150,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71kjs9OiBdL._SX425_.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    }
+  ]
+}
